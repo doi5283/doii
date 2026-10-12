@@ -1,7 +1,7 @@
 # 김도연
 
 ## skill
-| ![My Skills](https://skillicons.dev/icons?i=html) | 테스트 |
+| ![My Skills](https://skillicons.dev/icons?i=html) | ![My Skills](https://skillicons.dev/icons?i=css) | ![My Skills](https://skillicons.dev/icons?i=js) |
 | --- | --- |
 | 테스트 | 테스트 |
 | 테스트 | 테스트 |
